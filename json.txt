@@ -1,0 +1,10 @@
+
+
+
+
+
+json-server --watch data.json --port 3005
+json-server --watch list.json --port 3006
+json-server --watch comment.json --port 3007
+
+C:\Users\admin\Desktop\project-sns\sns
